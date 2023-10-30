@@ -1,0 +1,41 @@
+
+ Q1. <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML defines the content and structure of your website</h1>
+</body>
+</html>
+
+
+Q2. An example of the usage of comments:
+    <!-- <h1>HTML defines the content and structure of your website</h1> -->
+Comments in HTML are used in documenting information which is only useful for its readers and does not serve the purpose of rendering data in HTML.
+
+
+Q3. <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML ASSIGNMENT</h1> <hr> <br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis distinctio sunt, eaque cumque ducimus atque autem vel officiis assumenda, nesciunt excepturi aliquid eius, aliquam quae necessitatibus animi illo id? Doloremque id, nihil officia explicabo consequuntur facilis saepe ipsa eius aliquid. Maiores ipsa reprehenderit fuga eaque sed modi, ab itaque excepturi vitae quae repudiandae rem libero, omnis, voluptatibus natus dolorum nesciunt reiciendis aspernatur ratione. Ipsam minima, quis obcaecati nesciunt tempora ipsa expedita inventore sapiente rem ducimus natus nobis! Ipsa officia veniam non. Vel eum natus nisi labore. Porro iste modi iure quibusdam quo, amet consequuntur quaerat explicabo totam? Minima, distinctio aspernatur.</p>
+</body>
+</html>
+
+ 
+ Q4. 
+An element in HTML can be a piece of text, a hyperlink, an image, a form, a video or any other type of content that can be included on a webpage. An HTML element includes an opening tag, a closing tag and the content in the middle. For example, the <p> tag is used to wrap a paragraph of text, and the <img> tag is used to insert an image. Each HTML element has specific attributes that define its behavior, formatting and content.
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, voluptates.</p>
+Here, this is an element. It starts with an opening tab, includes the content of the paragraph in the middle and ends with the closing tab.
+A tag in HTML is a snippet of code enclosed with angular brackets. HTML tags are of two types opening tag and the closing tag.
+
+
+Q5. The DOCTYPE declaration in HTML is an instruction to the web browser that specifies the version of HTML being used in the web page.  It is not an HTML tag but rather an instruction that is placed at the beginning of an HTML document before the <html> tag.
